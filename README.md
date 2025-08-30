@@ -62,4 +62,5 @@ The client is intended to be built as a standalone *.exe*, but it can also be ex
 
 
 ## 🔗 Related resources
-- [Dddit Client](https://github.com/AngeloAntonioPrisco/ddditserver): The official Java server for interact with the client.
+- [Dddit Server](https://github.com/AngeloAntonioPrisco/ddditserver): The official Java server for interact with the client.
+- [Dddit AI](https://github.com/AngeloAntonioPrisco/ddditai): The official project tha manage Dddit AI module loaded on Dddit Server.
