@@ -210,7 +210,7 @@ quit
 ## Quick Reference Table
 
 | Command                                 | Description                          | Example                                  |
-|--|--||
+|-----------------------------------------|--------------------------------------|------------------------------------------|
 | **cd <name>**                           | Change context                       | `cd my_repo`                             |
 | **cd ..**                               | Move up one context level            | `cd ..`                                  |
 | **cwd <path>**                          | Set local working folder             | `cwd C:\Users\Angelo\Documents\Projects` |
